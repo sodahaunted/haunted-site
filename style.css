@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/bf/4a/23/bf4a232e974b75518a65acb4705515d1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Monaco;
+}
+.style {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    margin: 2vh 1vh 2vh 1vh;
+    font-size: 16px;
+    width: 750px;
+    background-color: rgb(208, 226, 242);
+    border: 4px groove #728ad3;
+    border-radius: 10px;
+    opacity: 70%;
+}
+.box {
+    background-color: azure;
+}
+p {
+    padding: 3px;
+    opacity: 100%;
+}
+input {
+    font-family: Monaco;
+}
+h2 {
+    font-weight: 900;
+    color:#3861e7;
+}
+img {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
