@@ -8,5 +8,8 @@ the design of the website is kept minimal and buggy on purpose, to mimic the sty
 
 made with html/css
 
-this website was programmed in one sitting; which is why there's a low number of commits. i've made tens of different web pages before.
+this website was programmed in one sitting; which is why there's a low number of commits.
+
+the blinkies/gif are from https://graphic.neocities.org/, a site made by bonnibel.
+
 coded for the hack club stardance personal site mission
